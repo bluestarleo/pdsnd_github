@@ -15,3 +15,8 @@ bikeshare.py
 ### Credits
 https://github.com/github/CodeSearchNet.git
 
+### Additional changes
+2nd change is made on Aug. 6 2022
+
+### Section III Make at least 2 additional changes
+3rd change to README 

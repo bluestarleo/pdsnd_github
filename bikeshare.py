@@ -1,6 +1,7 @@
 import time
 import pandas as pd
 import numpy as np
+#Section III: additional change to the bikeshare file made on Aug. 6 2022
 
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
